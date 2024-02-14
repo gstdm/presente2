@@ -73,14 +73,14 @@ export default function Main() {
               {!id ? (
                 <>
                   <p className="font-semibold" align="center">"
-                    <b>♥️</b>
+                    <b>♥️ Obrigadu</b>
                   </p>
 
                   <p align="center">Te amo 😁</p>
 
                   <img src={health} alt="" width={200} />
 
-                  <p className="mt-10">🤍<a className="font-semibold text-red-300" href="https://www.instagram.com/danilo.samw/">.</a></p>
+                  <p className="mt-10">Aguardando ansiosamente pelo meu presente. 🤍<a className="font-semibold text-red-300" href="https://www.instagram.com/danilo.samw/">.</a></p>
                 </>
               ) : (
                 <>
