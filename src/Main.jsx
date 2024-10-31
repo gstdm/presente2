@@ -24,7 +24,7 @@ export default function Main() {
     "Você está disposta a responder algumas perguntas?",
     "Você responderá com total sinceridade?",
     "Tem certeza de que deseja continuar?",
-    !question ? "Me da uma fan 160?" : question,
+    !question ? "Me da teu cu e namora cmg?" : question,
   ]
 
   const handleYesAnswerButton = () => {
@@ -73,10 +73,10 @@ export default function Main() {
               {!id ? (
                 <>
                   <p className="font-semibold" align="center">"
-                    <b>♥️ Obrigadu</b>
+                    <b>♥️</b>
                   </p>
 
-                  <p align="center">Te amo 😁</p>
+                  <p align="center">😁</p>
 
                   <img src={health} alt="" width={200} />
 
